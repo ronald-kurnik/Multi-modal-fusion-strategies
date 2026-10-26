@@ -1,6 +1,6 @@
 # Multi-Modal Data Fusion
 
-This demo compares different strategies for fusing multi-modal plasma sensor data into a single predictive model. It directly addresses one of the core technical requirements of the SirenOpt Senior Scientist role:
+This demo compares different strategies for fusing multi-modal plasma sensor data into a single predictive model.
 
 > multi-modal data fusion (combining spectral, imaging, and process data)
 
