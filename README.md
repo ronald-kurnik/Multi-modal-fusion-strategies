@@ -2,7 +2,7 @@
 
 This demo compares different strategies for fusing multi-modal plasma sensor data into a single predictive model.
 
-> multi-modal data fusion (combining spectral, imaging, and process data)
+multi-modal data fusion (combining spectral, imaging, and process data)
 
 ![multimodal_fusion](multimodal_fusion.png)
 ---
